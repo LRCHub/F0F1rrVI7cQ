@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "クリーム",
+  "base_artist": "yama",
+  "createdAt": "2026-03-05T07:25:07.553334Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "クレンジング クリーム",
+      "artist": "Miyuki Nakajima",
+      "has_synced": false,
+      "path": "select/01_クレンジング_クリーム_Miyuki_Nakajima.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "クレンジング クリーム",
+      "artist": "中島みゆき",
+      "has_synced": false,
+      "path": "select/02_クレンジング_クリーム_中島みゆき.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "クリーム - \"Premium Best\" Remaster",
+      "artist": "Plastic Tree",
+      "has_synced": false,
+      "path": "select/03_クリーム_-__Premium_Best__Remaster_Plastic_Tree.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "クリーム",
+      "artist": "Plastic Tree",
+      "has_synced": false,
+      "path": "select/04_クリーム_Plastic_Tree.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "クリーム - 『Cut』ver.",
+      "artist": "Plastic Tree",
+      "has_synced": true,
+      "path": "select/05_クリーム_-_『Cut』ver._Plastic_Tree.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "クリーム",
+      "artist": "yama",
+      "has_synced": false,
+      "path": "select/pl_01_クリーム_yama.txt"
+    }
+  ]
+}
